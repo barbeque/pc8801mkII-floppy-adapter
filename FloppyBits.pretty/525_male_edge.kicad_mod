@@ -1,5 +1,6 @@
-(module 525_male_edge (layer F.Cu) (tedit 5B732CE4)
-  (fp_text reference "Floppy Top" (at 0 6.5) (layer F.SilkS)
+(module 525_male_edge (layer F.Cu) (tedit 5B734107)
+  (attr smd)
+  (fp_text reference "PC8801 Floppy (Top)" (at 0 6.5) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text value "5.25 Male Edge Connector" (at 0 5.5) (layer F.Fab)
