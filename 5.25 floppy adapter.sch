@@ -45,7 +45,7 @@ U 1 1 5B735D10
 P 5425 4000
 F 0 "G1" H 5475 5017 50  0000 C CNN
 F 1 "GOTEK" H 5475 4926 50  0000 C CNN
-F 2 "Pin_Headers:Pin_Header_Straight_2x17_Pitch2.54mm" H 5425 4000 50  0001 C CNN
+F 2 "Connector_IDC:IDC-Header_2x17_P2.54mm_Horizontal" H 5425 4000 50  0001 C CNN
 F 3 "~" H 5425 4000 50  0001 C CNN
 	1    5425 4000
 	1    0    0    -1  

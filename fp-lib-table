@@ -1,3 +1,4 @@
 (fp_lib_table
   (lib (name FloppyBits)(type KiCad)(uri ${KIPRJMOD}/FloppyBits.pretty)(options "")(descr ""))
+  (lib (name Connector_IDC)(type KiCad)(uri ${KIPRJMOD}/Connector_IDC.pretty)(options "")(descr ""))
 )
