@@ -2,6 +2,7 @@
 This adapter is intended to allow an NEC PC8801mkII to use a 34-pin floppy drive such as a Gotek or standard 3.5" IBM PC drive in lieu of its original 5.25" floppy drive.
 
 ![Rendered concept image](render.png)
+![Installed in computer](installed.jpg)
 
 It is based on [an adapter cable designed by Koichi Nishida](http://tulip-house.ddo.jp/DIGITAL/FD88/index.html). His schematic is as follows:
 ![converter cable schematic](schematic.png)
