@@ -8,3 +8,6 @@ It is based on [an adapter cable designed by Koichi Nishida](http://tulip-house.
 ![converter cable schematic](schematic.png)
 
 Note that if you are using an HxC-enabled Gotek (which you should), this adapter is potentially unnecessary. You can configure the Gotek or SD HxC to work in Shugart bus mode, which means you only need to attach a 34-pin IDC header to the existing ribbon cable.
+
+# Bill of Materials
+ * 34-pin female IDC right-angle header (0.100") such as [S9207-ND](https://www.digikey.ca/product-detail/en/sullins-connector-solutions/SFH11-PBPC-D17-RA-BK/S9207-ND/1990100) on DigiKey.
