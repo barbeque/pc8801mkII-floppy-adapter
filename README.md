@@ -2,6 +2,7 @@
 This adapter is intended to allow an NEC PC8801mkII to use a 34-pin floppy drive such as a Gotek or other Shugart floppy drive in lieu of its original 5.25" floppy drives.
 
 ![Rendered concept image](render.jpg)
+(note that the connector goes on the other side on the real adapter:)
 ![Installed in computer](installed.jpg)
 
 This expects the Gotek (or HxC) floppy emulator to be able to run in pure Shugart mode, as this adapter just converts the signals from the edge connector to a 34-pin floppy connector.
