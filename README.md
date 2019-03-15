@@ -1,13 +1,16 @@
 # PC8801mkII floppy adapter
-This adapter is intended to allow an NEC PC8801mkII to use a 34-pin floppy drive such as a Gotek or standard 3.5" IBM PC drive in lieu of its original 5.25" floppy drive.
+This adapter is intended to allow an NEC PC8801mkII to use a 34-pin floppy drive such as a Gotek or other Shugart floppy drive in lieu of its original 5.25" floppy drives.
 
-![Rendered concept image](render.png)
+![Rendered concept image](render.jpg)
 ![Installed in computer](installed.jpg)
 
-It is based on [an adapter cable designed by Koichi Nishida](http://tulip-house.ddo.jp/DIGITAL/FD88/index.html). His schematic is as follows:
-![converter cable schematic](schematic.png)
+This expects the Gotek (or HxC) floppy emulator to be able to run in pure Shugart mode, as this adapter just converts the signals from the edge connector to a 34-pin floppy connector.
 
-Note that if you are using an HxC-enabled Gotek (which you should), this adapter is potentially unnecessary. You can configure the Gotek or SD HxC to work in Shugart bus mode, which means you only need to attach a 34-pin IDC header to the existing ribbon cable.
+To run dual drives, you may have to make some jumper changes on the Goteks themselves. I had success with both drives set to `S0`.
+
+# Tested On
+ * NEC PC-8801mkII
+ * NEC PC-8801mkIISR
 
 # Bill of Materials
  * 34-pin female IDC right-angle header (0.100") such as [S9207-ND](https://www.digikey.ca/product-detail/en/sullins-connector-solutions/SFH11-PBPC-D17-RA-BK/S9207-ND/1990100) on DigiKey.

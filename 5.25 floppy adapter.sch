@@ -35,10 +35,6 @@ F 3 "" H 6875 5325 50  0001 C CNN
 	1    6875 5325
 	1    0    0    -1  
 $EndComp
-Wire Wire Line
-	8200 4800 6875 4800
-Wire Wire Line
-	6875 4800 6875 5075
 $Comp
 L Connector_Generic:Conn_02x17_Odd_Even G1
 U 1 1 5B735D10
@@ -50,41 +46,6 @@ F 3 "~" H 5425 4000 50  0001 C CNN
 	1    5425 4000
 	1    0    0    -1  
 $EndComp
-Wire Wire Line
-	8200 3500 5725 3500
-Wire Wire Line
-	8200 3900 6500 3900
-Wire Wire Line
-	5725 3600 6500 3600
-Wire Wire Line
-	6500 3600 6500 3900
-Connection ~ 6500 3900
-Wire Wire Line
-	6500 3900 5725 3900
-Wire Wire Line
-	8200 3700 5725 3700
-Wire Wire Line
-	8200 3600 7300 3600
-Wire Wire Line
-	7300 3600 7300 3800
-Wire Wire Line
-	7300 3800 5725 3800
-Wire Wire Line
-	5725 4000 8200 4000
-Wire Wire Line
-	8200 4100 5725 4100
-Wire Wire Line
-	5725 4200 8200 4200
-Wire Wire Line
-	8200 4300 5725 4300
-Wire Wire Line
-	5725 4400 8200 4400
-Wire Wire Line
-	8200 4500 5725 4500
-Wire Wire Line
-	5725 4600 8200 4600
-Wire Wire Line
-	8200 4700 5725 4700
 Wire Wire Line
 	8700 3200 9025 3200
 Wire Wire Line
@@ -260,4 +221,38 @@ Wire Wire Line
 Connection ~ 5025 4800
 Wire Wire Line
 	5025 4800 5025 5075
+Wire Wire Line
+	8200 4800 5725 4800
+Wire Wire Line
+	5725 4700 8200 4700
+Wire Wire Line
+	8200 4600 5725 4600
+Wire Wire Line
+	5725 4500 8200 4500
+Wire Wire Line
+	8200 4400 5725 4400
+Wire Wire Line
+	5725 4300 8200 4300
+Wire Wire Line
+	8200 4200 5725 4200
+Wire Wire Line
+	5725 4100 8200 4100
+Wire Wire Line
+	8200 4000 5725 4000
+Wire Wire Line
+	5725 3900 8200 3900
+Wire Wire Line
+	8200 3800 5725 3800
+Wire Wire Line
+	5725 3700 8200 3700
+Wire Wire Line
+	8200 3600 5725 3600
+Wire Wire Line
+	5725 3500 8200 3500
+Wire Wire Line
+	8200 3400 5725 3400
+Wire Wire Line
+	5725 3300 8200 3300
+Wire Wire Line
+	8200 3200 5725 3200
 $EndSCHEMATC
