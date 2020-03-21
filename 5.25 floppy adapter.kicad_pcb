@@ -296,7 +296,7 @@
   )
 
   (module FloppyBits:525_male_edge (layer F.Cu) (tedit 5B875C5E) (tstamp 5B87A5AB)
-    (at 177.69 86.655)
+    (at 177.673 87.503)
     (tags floppy)
     (path /5B735DBD)
     (attr smd)
