@@ -1,4 +1,4 @@
-*-cache.lib
+*cache*
 *.bak
 *.kicad_pcb-bak
 *.zip
