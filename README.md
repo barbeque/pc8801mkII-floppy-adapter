@@ -13,5 +13,14 @@ To run dual drives, you may have to make some jumper changes on the Goteks thems
  * NEC PC-8801mkII
  * NEC PC-8801mkIISR
 
+# Version History
+## v2.3
+ * Added 45-degree chamfer
+ * Added IBM PC style key slot
+
+## v2.1
+ * Removed solder mask from around fingers
+ * Added extra "meat" to allow gold finger bevel at fabricator
+
 # Bill of Materials
  * 34-pin female IDC right-angle header (0.100") such as [S9207-ND](https://www.digikey.ca/product-detail/en/sullins-connector-solutions/SFH11-PBPC-D17-RA-BK/S9207-ND/1990100) on DigiKey.
