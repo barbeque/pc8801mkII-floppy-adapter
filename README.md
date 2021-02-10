@@ -1,6 +1,7 @@
-# PC8801mkII floppy adapter
+# This Project is Obsolete!
 <span style="font-size:35px">Hey! This project is now obsolete, and has been replaced by [the v3 floppy adapter project](https://github.com/barbeque/floppy-edge-connector-adapter). Please use that one instead.</span>
 
+# PC8801mkII floppy adapter
 This adapter is intended to allow an NEC PC8801mkII to use a 34-pin floppy drive such as a Gotek or other Shugart floppy drive in lieu of its original 5.25" floppy drives.
 
 ![Rendered concept image](render.jpg)
